@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="NetBackgammon.Board">
+    <Position X="0.5" Y="0.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>FTABAAJIAEMAAYAIAQjQBAKAIEAAUAACCAAAJAAvIIA=</HashCode>
+      <FileName>Board.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="NetBackgammon.Checker">
+    <Position X="6.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIAAAAAAEAAAAACBAyAAAEAAAAABAAAAAABgAABBAAQ=</HashCode>
+      <FileName>Checker.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="NetBackgammon.Column">
+    <Position X="2.5" Y="0.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AQAIgABgAKAAAAAAAQEAAICAA4AJIAEAQABAAAAAQAA=</HashCode>
+      <FileName>Column.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="NetBackgammon.frmBoard">
+    <Position X="8.5" Y="0.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>EiQgAAAEEKTAMAQCBECCIAICJqARAVAIIpIIEFRgBEA=</HashCode>
+      <FileName>Forms\frmBoard.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="NetBackgammon.Moves">
+    <Position X="4.5" Y="0.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>FAARAAEGAAAwAAAAACAABAIAAAAACgAwAQAIIAoQACI=</HashCode>
+      <FileName>Moves.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

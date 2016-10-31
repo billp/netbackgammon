@@ -1,0 +1,34 @@
+C:\Users\Bill\AppData\Local\Temporary Projects\NetBackgammon\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Bill\AppData\Local\Temporary Projects\NetBackgammon\obj\Debug\NetBackgammon.vbproj.GenerateResource.Cache
+C:\Users\Bill\AppData\Local\Temporary Projects\NetBackgammon\bin\Debug\NetBackgammon.exe
+C:\Users\Bill\AppData\Local\Temporary Projects\NetBackgammon\bin\Debug\NetBackgammon.pdb
+C:\Users\Bill\AppData\Local\Temporary Projects\NetBackgammon\bin\Debug\NetBackgammon.xml
+C:\Users\Bill\AppData\Local\Temporary Projects\NetBackgammon\obj\Debug\NetBackgammon.Resources.resources
+C:\Users\Bill\AppData\Local\Temporary Projects\NetBackgammon\obj\Debug\NetBackgammon.exe
+C:\Users\Bill\AppData\Local\Temporary Projects\NetBackgammon\obj\Debug\NetBackgammon.xml
+C:\Users\Bill\AppData\Local\Temporary Projects\NetBackgammon\obj\Debug\NetBackgammon.pdb
+C:\Users\Bill\AppData\Local\Temporary Projects\NetBackgammon\obj\Debug\NetBackgammon.board.resources
+C:\Users\Bill\AppData\Local\Temporary Projects\NetBackgammon\obj\Debug\NetBackgammon.about.resources
+C:\Users\Bill\AppData\Local\Temporary Projects\NetBackgammon\obj\Debug\NetBackgammon.Main.resources
+C:\Users\Bill\Documents\Visual Studio 2008\Projects\NetBackgammon\NetBackgammon\obj\Debug\NetBackgammon.exe
+C:\Users\Bill\Documents\Visual Studio 2008\Projects\NetBackgammon\NetBackgammon\obj\Debug\NetBackgammon.xml
+C:\Users\Bill\Documents\Visual Studio 2008\Projects\NetBackgammon\NetBackgammon\obj\Debug\NetBackgammon.pdb
+C:\Users\Bill\Documents\Visual Studio 2008\Projects\NetBackgammon\NetBackgammon\bin\Debug\NetBackgammon.exe
+C:\Users\Bill\Documents\Visual Studio 2008\Projects\NetBackgammon\NetBackgammon\bin\Debug\NetBackgammon.pdb
+C:\Users\Bill\Documents\Visual Studio 2008\Projects\NetBackgammon\NetBackgammon\bin\Debug\NetBackgammon.xml
+C:\Users\Bill\Documents\Visual Studio 2008\Projects\NetBackgammon\NetBackgammon\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Bill\Documents\Visual Studio 2008\Projects\NetBackgammon\NetBackgammon\obj\Debug\NetBackgammon.Resources.resources
+C:\Users\Bill\Documents\Visual Studio 2008\Projects\NetBackgammon\NetBackgammon\obj\Debug\NetBackgammon.vbproj.GenerateResource.Cache
+C:\Users\Bill\Documents\Visual Studio 2008\Projects\NetBackgammon\NetBackgammon\obj\Debug\NetBackgammon.frmAbout.resources
+C:\Users\Bill\Documents\Visual Studio 2008\Projects\NetBackgammon\NetBackgammon\obj\Debug\NetBackgammon.frmBoard.resources
+C:\Users\Bill\Documents\Visual Studio 2008\Projects\NetBackgammon\NetBackgammon\obj\Debug\NetBackgammon.frmMain.resources
+C:\Users\Bill\Documents\Visual Studio 2008\Projects\NetBackgammon\NetBackgammon\obj\Debug\NetBackgammon.frmCreate.resources
+C:\Users\Bill\Documents\Visual Studio 2008\Projects\NetBackgammon\NetBackgammon\bin\Debug\NetBackgammon.exe.config
+C:\Users\Bill\Documents\Visual Studio 2008\Projects\NetBackgammon\NetBackgammon\obj\Debug\NetBackgammon.frmCreateServerSettings.resources
+C:\Users\Bill\Documents\Visual Studio 2008\Projects\NetBackgammon\NetBackgammon\obj\Debug\NetBackgammon.frmJoin.resources
+C:\Users\Bill\Documents\Visual Studio 2008\Projects\NetBackgammon\NetBackgammon\obj\Debug\NetBackgammon.frmCreateWaitingForConnectionDialog.resources
+C:\Users\Bill\Documents\Visual Studio 2008\Projects\NetBackgammon\NetBackgammon\bin\Debug\NetBackgammon.exe.manifest
+C:\Users\Bill\Documents\Visual Studio 2008\Projects\NetBackgammon\NetBackgammon\bin\Debug\NetBackgammon.application
+C:\Users\Bill\Documents\Visual Studio 2008\Projects\NetBackgammon\NetBackgammon\obj\Debug\NetBackgammon.TrustInfo.xml
+C:\Users\Bill\Documents\Visual Studio 2008\Projects\NetBackgammon\NetBackgammon\obj\Debug\NetBackgammon.exe.manifest
+C:\Users\Bill\Documents\Visual Studio 2008\Projects\NetBackgammon\NetBackgammon\obj\Debug\NetBackgammon.application
